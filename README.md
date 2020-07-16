@@ -11,11 +11,13 @@ This application is the repository for the Tempo Goal Tracking Web application.
  - run command `mvn clean install` to install dependancies.
  - run command `mvn spring-boot:run` to run program.
 
-## Release Notes:
- - the route at "/" shows a demo of a possible implementation
- - the route at "/goals" shows all goals currently in the system
- - the route at "/goals/create" allows a user to create and submit a goal
- - the database is loaded in memory and is connected to our system
- - models are done
- - repositories are done
- - thymeleaf, flyway, jdbc, and spring security are all configured
+## Release Notes 0.0.3:
+ - Header now has dropdown links to index and create pages for both tags and goals.
+ - These can be reached using "/", "/create" (for goals) and "/tags" "/tags/create" respectively.
+ - Tags and Goals create pages are now functional.
+ - Formatted basic CRUD pages, not all currently functional.
+ - Can now Edit goals
+ - Can associate tags with goals
+ - Goals now have due dates
+ - Optimized and added unit testing.
+ 
