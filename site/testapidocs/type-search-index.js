@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"cist4830.unomaha.tempo.goal","l":"TestGoal"},{"p":"cist4830.unomaha.tempo.goal","l":"TestTag"},{"p":"cist4830.unomaha.tempo.database","l":"TestUser"},{"p":"cist4830.unomaha.tempo.goal","l":"TestUser"}]
